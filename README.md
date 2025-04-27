@@ -1,6 +1,9 @@
 # Для запуска программы
 
 <div style="background-color: #fff3cd; padding: 10px; border-left: 4px solid #ffc107; margin-bottom: 20px;">
+<strong>⚠️ Warning:</strong> В коде много дерьма и отсутствуют комментарии. Разбирайтесь сами. </div>
+
+<div style="background-color: #fff3cd; padding: 10px; border-left: 4px solid #ffc107; margin-bottom: 20px;">
 <strong>⚠️ Warning:</strong> Не все программы дописаны. Конкретнее не работает 3 и не неписано 9
 </div>
 
