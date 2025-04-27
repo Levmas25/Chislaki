@@ -17,7 +17,7 @@
 ## Установка расширения для VS Code
 
 В окне поиска расширений(Ctrl+Shift+X) найти расширение Jupyter и установить его
-![Extention](img/vscode_extantion.png)
+![Extention](img/vscode_extention.png)
 
 Выбрать интерпритатор, если не выбран
 ![Interpreter](img/select_inter.png)
